@@ -9,6 +9,7 @@ is_student = False
 print(type(is_student))
 
 # Arithmetic operators
+print()
 print("Arithmetic operators:")
 addition = age + 10
 subtraction = age - 10
